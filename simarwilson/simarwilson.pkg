@@ -1,5 +1,7 @@
-d 'DEA': Data envelopment analysis
+d 'simarwilson': Simar & Wilson (2007) two stage efficiency analysis Use simarwilson With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f _ftruncreg_p.ado
+f ftruncreg.ado
+f ftruncreg.sthlp
+f simarwilson.ado
+f simarwilson.sthlp
